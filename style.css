@@ -1,0 +1,60 @@
+
+  @media screen and (min-width:1px) and (max-width:769px) {
+    .hideinmobile{
+      display: none !important;
+
+    }
+    
+  }
+
+
+
+#fnav{
+    height: 48px;
+    width: 100%;
+    color: white;
+    background: rgba(243, 193, 28, 0.76);
+    text-align: center;
+    
+}
+#bg{
+  height: 500px;
+  width: 100%;
+}
+.box1{
+  height: 200px;
+  background: rgb(12, 8, 8);
+  color: white;
+  padding-top: 60px;
+
+}
+.p1{
+  margin-top: 120px;
+}
+
+
+#my{
+  color: white;
+  text-decoration: none;
+ 
+}
+.quotes{
+  margin-top:10%;
+}
+.fixed-top {
+  position: sticky;
+  margin-top: 0rem !important;
+}
+.foot{
+  background:  rgba(243, 193, 28, 0.76);
+  height: 250px;
+  color: white;
+}
+.mark{
+  margin-top: 12%;
+  background-color: white;
+}
+
+textarea{
+  height: 150px;
+}
